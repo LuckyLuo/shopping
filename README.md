@@ -1,6 +1,7 @@
 ## How to Run
 
-To run the application, make sure you have node v16.14.2 and npm v8.5.0 installed on your laptop, then simply take the following steps:
+To run the application, 
+* run `nvm use` to use the node version defined in [.nvmrc](./.nvmrc)
 * run `npm install` to install all the dependencies
 * run `npm start` to start the application
 * run `npm run start:dev` to start the application development with nodemon
